@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Default page</title>
+
+    <h2>Collean Ven Lent</h2>
+    <a href="One"></a>
+    <a href="Two"></a>
+    <a href="Three"></a>
+    <a href="Your choice"></a>
+
+    <h3>Favorit Foods</h3>
+    <ul>
+     <li>Apples</li>
+     <li>Pizza</li>
+     <li>Crab</li>
+     <li>Choclate Cake</li>
+    </ul>
+
+    <h3>Achievements</h3>
+    <label for="file">Progress in this course</label>
+    <progress id="file" value="32" max="100"> 100% </progress>
+    <label for="file">Progress in the specialization caption</label>
+    <progress id="file" value="32" max="100"> 20% </progress>
+    <label for="file">Progress in life goles</label>
+    <progress id="file" value="32" max="100"> 67% </progress>
+
+
+    <h3> More about me</h3>
+    <details>
+      <summary>My Childhood</summary>
+      <p>My childhood is very interesting.In my childhood I am very cute girl. </p>
+    </details>
+  </head>
+  <body>
